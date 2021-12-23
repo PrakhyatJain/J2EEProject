@@ -12,7 +12,7 @@
 
 # Package Files #
 *.jar
-!lib/**/mysql-connector.jar
+!WebContent/WEB-INF/lib/servlet-api.jar
 *.war
 *.nar
 *.ear
