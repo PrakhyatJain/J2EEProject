@@ -1,0 +1,22 @@
+1.  Web application to register Student Details using Java-J2EE technology
+	•	Create a student web page (HTML) under web content folder
+		o	Student details should be
+				First Name
+				Middle Name
+				Last Name
+				Age
+				Gender  - Use drop down box.  Values (male,female)
+				Address
+				City
+				State
+				Course Enrolled – ex: BCA, MCA, BCom, BSc…
+	•	Create a student servlet and read the values from student html form when submission
+	•	Finally display the values in console
+	•	Response with “Student Registration Successful”
+
+
+2.  Create a Web application to perorm the Login Operations
+	•  HTML page should consists of User Name, Password, Login Button.
+	•  Create a Login Servlet which reads the inputs
+	•  Login Servlet will verify the credentials against the hardcoded values of UN and PASS
+	•  On Success redirect page to Success page or else redirect to Error Page.
