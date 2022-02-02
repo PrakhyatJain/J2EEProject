@@ -12,6 +12,7 @@
 
 # Package Files #
 *.jar
+!WebContent/WEB-INF/lib/servlet-api.jar
 *.war
 *.nar
 *.ear
