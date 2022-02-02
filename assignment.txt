@@ -13,6 +13,7 @@
 	•	Create a student servlet and read the values from student html form when submission
 	•	Finally display the values in console
 	•	Response with “Student Registration Successful”
+	
 
 
 2.  Create a Web application to perorm the Login Operations
