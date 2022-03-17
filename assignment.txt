@@ -21,3 +21,13 @@
 	•  Create a Login Servlet which reads the inputs
 	•  Login Servlet will verify the credentials against the hardcoded values of UN and PASS
 	•  On Success redirect page to Success page or else redirect to Error Page.
+	
+1.	Write a java script program to perform the Arithmetic operations.  
+a.	Display the result on the popup
+b.	Display the result on the text box
+UI Specification:
+Take two text boxes to accept the values, four buttons namely add, subtract, multiply, divide.  Take third text box to display the result.
+Create a separate JavaScript file to write the functions and import it into HTLM page.
+
+2.	Swap the two number using math expression.  Take two textboxes namely Num1 & Num2.  Take a button by name “SWAP”.  Onclick of button call a java script function which will swap the number for textboxes.
+	
